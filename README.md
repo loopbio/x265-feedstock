@@ -1,7 +1,7 @@
 About x265
 ==========
 
-Home: https://aomedia.org/
+Home: https://bitbucket.org/multicoreware/x265
 
 Package license: GPLv2
 
